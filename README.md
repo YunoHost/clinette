@@ -10,5 +10,6 @@ Command line client for DynDns admin operation
 
 ### Remove domain
 
-    ./clinette.sh remove <domain.nohost.me>
+    ./clinette.sh delete <domain.nohost.me>
+
 
