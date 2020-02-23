@@ -4,7 +4,7 @@ COMMAND=$1
 DOMAIN=$2
 
 DYNHOST_USER="yunohost"
-DYNHOST_HOST="bearnaise.yunohost.org"
+DYNHOST_HOST="samurai.yunohost.org"
 DYNHOST_PORT="2210"
 
 
